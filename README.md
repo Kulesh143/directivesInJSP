@@ -1,4 +1,1 @@
-"# firstHelloKulesh" 
-"# servjs" 
-"# sessionManager" 
-"# scripletss" 
+"# Directives
